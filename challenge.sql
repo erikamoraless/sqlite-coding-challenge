@@ -1,7 +1,3 @@
--- challenge.sql
--- Tool: VS Code with SQLite Viewer
--- Validated by running each query directly on bais_sqlite_lab.db
-
 -- TASK 1
 SELECT
     c.first_name || ' ' || c.last_name AS customer_name,
